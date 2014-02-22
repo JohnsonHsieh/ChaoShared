@@ -1,3 +1,5 @@
 export(ChaoShared)
+export(print.BasicFun)
+export(print.BasicFun.Sam)
 
 
